@@ -18,7 +18,10 @@ class Overview extends React.Component {
           <div className='overview-box'>
             <div className='row h-100 justify-content-center align-items-center'>
               <div className='col-lg-6 col-md-6 overview-img'>
-                <img src='/images/apps-img1.png' alt='image' />
+                <img
+                  src='https://res.cloudinary.com/pauseprogramming/image/upload/v1596212869/grounded/tinified/apps-img1_ltjftv.png'
+                  alt='image'
+                />
               </div>
 
               <div className='col-lg-6 col-md-6 overview-content'>
